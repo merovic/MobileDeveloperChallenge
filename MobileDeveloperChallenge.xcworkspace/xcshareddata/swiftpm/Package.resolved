@@ -1,0 +1,15 @@
+{
+  "originHash" : "8b1b6bb906127110290a58dbec7ce49892abf426598a43c9837fb24402eccbbc",
+  "pins" : [
+    {
+      "identity" : "msgpack-swift?tab=readme-ov-file",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fumoboy007/msgpack-swift?tab=readme-ov-file",
+      "state" : {
+        "revision" : "fe3101819f4f82b086da5279a9df81f6754798e9",
+        "version" : "2.0.6"
+      }
+    }
+  ],
+  "version" : 3
+}
